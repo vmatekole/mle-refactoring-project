@@ -7,3 +7,10 @@ statsmodels
 scikit-learn
 scipy
 skops
+psycopg2-binary
+uvicorn
+fastapi
+sqlalchemy
+python-dotenv
+requests
+rich
